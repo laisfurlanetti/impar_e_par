@@ -11,12 +11,12 @@ namespace par_e_impar
         static void Main(string[] args)
         {
 
-            decimal n1;
+            decimal numero;
 
             Console.Write("Digite um numero: ");
-            n1 = Convert.ToDecimal(Console.ReadLine());
+            numero = Convert.ToDecimal(Console.ReadLine());
 
-            if (n1 % 2 == 0)
+            if (numero % 2 == 0)
                 Console.Write("Seu numero e par");
             else
                 Console.Write("Seu numero e impar");
