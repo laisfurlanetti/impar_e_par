@@ -1,0 +1,7 @@
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\par e impar\bin\Debug\par e impar.exe.config
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\par e impar\bin\Debug\par e impar.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\par e impar\bin\Debug\par e impar.pdb
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\par e impar\obj\Debug\par e impar.csprojAssemblyReference.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\par e impar\obj\Debug\par e impar.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\par e impar\obj\Debug\par e impar.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\par e impar\obj\Debug\par e impar.pdb
